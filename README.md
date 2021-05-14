@@ -1,6 +1,6 @@
 Hi I'm Vinicius from Porto Alegre(BR), software engineer student.
 
-![PHP](https://img.shields.io/badge/-PHP-purple)<br>
+![PHP](https://img.shields.io/badge/-PHP-purple?atyle=for-the-badge&logo=php&Color=black)<br>
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)<br>
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
