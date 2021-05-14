@@ -12,7 +12,6 @@ Hi I'm Vinicius from Porto Alegre(BR), software engineer student.
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)<br>
 ![EXPRESS.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)<br>
-![ADONIS.JS](https://img.shields.io/badge/Adonis.js-404D59?style=for-the-badge&logo=adonis&logoColor=white)<br>
 ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)<br>
 ![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)<br>
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
